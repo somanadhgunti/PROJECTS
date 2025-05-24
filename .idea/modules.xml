@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ai-frontend.iml" filepath="$PROJECT_DIR$/.idea/ai-frontend.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Assignment_sentimental_analysis_for_voice_messages.iml" filepath="$PROJECT_DIR$/Assignment_sentimental_analysis_for_voice_messages.iml" />
+>>>>>>> ab30fd6a336eb858cdcc21f9298bd6e49beff374
     </modules>
   </component>
 </project>
