@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager">
+=======
+<<<<<<< HEAD
+  <component name="Black">
+    <option name="sdkName" value="Python 3.10 (Day4_music_genre_classification)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Day4_music_genre_classification)" project-jdk-type="Python SDK">
+=======
+<<<<<<< HEAD
+  <component name="Black">
+    <option name="sdkName" value="Python 3.10 (Day4_fastAPI)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Day4_fastAPI)" project-jdk-type="Python SDK">
+=======
+<<<<<<< HEAD
+  <component name="Black">
+    <option name="sdkName" value="Python 3.10 (DAY3_visionAudio)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (DAY3_visionAudio)" project-jdk-type="Python SDK">
+=======
+<<<<<<< HEAD
+  <component name="Black">
+    <option name="sdkName" value="Python 3.10 (DAY2_NLP)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (DAY2_NLP)" project-jdk-type="Python SDK">
+=======
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.10 (Assignment_sentimental_analysis_for_voice_messages)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Assignment_sentimental_analysis_for_voice_messages)" project-jdk-type="Python SDK">
+>>>>>>> ab30fd6a336eb858cdcc21f9298bd6e49beff374
+>>>>>>> daa77f4fb8065625e41dcdf89116359b0c31f021
+>>>>>>> 64db81646e9763e9c7ab67720a87cccd045cca79
+>>>>>>> 8a93eca70e2730db05c0fc20b9c01ffd95322ace
+>>>>>>> cf368abf8067b354ceb0fc49d438a9c74bcbe2c6
+>>>>>>> 024f402c44fe452bbef3d62098ccc5ff51a28ba7
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

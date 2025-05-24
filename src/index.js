@@ -3,9 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+<<<<<<< HEAD
 import './index.css';
 import './index.css';
 import './index.css';
+=======
+>>>>>>> 024f402c44fe452bbef3d62098ccc5ff51a28ba7
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
