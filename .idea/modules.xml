@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/DAY3_visionAudio.iml" filepath="$PROJECT_DIR$/DAY3_visionAudio.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/DAY2_NLP.iml" filepath="$PROJECT_DIR$/DAY2_NLP.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/ai-frontend.iml" filepath="$PROJECT_DIR$/.idea/ai-frontend.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Assignment_sentimental_analysis_for_voice_messages.iml" filepath="$PROJECT_DIR$/Assignment_sentimental_analysis_for_voice_messages.iml" />
+>>>>>>> ab30fd6a336eb858cdcc21f9298bd6e49beff374
+>>>>>>> daa77f4fb8065625e41dcdf89116359b0c31f021
+>>>>>>> 64db81646e9763e9c7ab67720a87cccd045cca79
     </modules>
   </component>
 </project>
